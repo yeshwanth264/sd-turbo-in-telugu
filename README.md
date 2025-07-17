@@ -52,7 +52,9 @@ Input (Telugu): `ఒక అందమైన పల్లెటూరు వీధ
 
 ### 💻 Try it in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/drive/1AsHCLbUn49PnWHAedwVxrc8Nen0vB4DF?usp=sharing)
+[![Open In Colab]
+(https://colab.research.google.com/drive/1AsHCLbUn49PnWHAedwVxrc8Nen0vB4DF?usp=sharing)
+
 
 
 ### 🧾 Requirements
